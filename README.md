@@ -14,20 +14,20 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgptwebsite.us/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Discord](https://discord.gg/YCkeafCafC) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Web App](https://chatgptwebsite.us/) / [Desktop App](https://github.com/qiuxuyao/ChatGPT-Next-Web/releases) / [Issues](https://github.com/qiuxuyao/ChatGPT-Next-Web/issues) / [Discord](https://discord.gg/YCkeafCafC) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
-[网页版](https://chatgpt.nextweb.fun/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[网页版](https://chatgptwebsite.us/) / [客户端](https://github.com/qiuxuyao/ChatGPT-Next-Web/releases) / [反馈](https://github.com/qiuxuyao/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
 
-[web-url]: https://chatgpt.nextweb.fun
-[download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
+[web-url]: https://chatgptwebsite.us/
+[download-url]: https://github.com/qiuxuyao/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fqiuxuyao%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/qiuxuyao/ChatGPT-Next-Web)
 
 ![cover](./docs/images/cover.png)
 
@@ -36,7 +36,7 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
+- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/qiuxuyao/ChatGPT-Next-Web/releases)
 - Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
 - Privacy first, all data stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
@@ -49,13 +49,13 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/qiuxuyao/ChatGPT-Next-Web/issues/138)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/qiuxuyao/ChatGPT-Next-Web/issues/993)
 - [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
 - [x] Desktop App with tauri
 - [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/qiuxuyao/ChatGPT-Next-Web/issues/165)
 
 ## What's New
 
@@ -66,7 +66,7 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 ## 主要功能
 
 - 在 1 分钟内使用 Vercel **免费一键部署**
-- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
+- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://github.com/qiuxuyao/ChatGPT-Next-Web/releases)
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
 - 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
 - 极快的首屏加载速度（~100kb），支持流式响应
